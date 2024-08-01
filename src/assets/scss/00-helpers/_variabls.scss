@@ -1,0 +1,38 @@
+/*----------------------------------------*/
+/*  01. Helpers CSS
+/*----------------------------------------*/
+
+// Font Family
+$font-family-base: "Gantari", sans-serif;
+$headings-font-family: "Spectral", serif;
+
+// Responsive Variables
+$extraBig-device: "only screen and (min-width: 1600px)";
+$laptop-device: "only screen and (min-width: 1200px) and (max-width: 1599px)";
+$desktop-device: "only screen and (min-width: 992px) and (max-width: 1199px)";
+$tablet-device: "only screen and (min-width: 768px) and (max-width: 991px)";
+$large-mobile: "only screen and (max-width: 767px)";
+$small-mobile: "only screen and (max-width: 575px)";
+$extra-small-mobile: "only screen and (max-width: 479px)";
+
+//===============================
+// Color Variables
+//===============================
+
+// Color
+$darkBlue: #003c8a;
+$skyBlue: #0068ef;
+$skyGray: #4f6f8f;
+$ExtraLightBlue: #e8f2ff;
+$dark: #001833;
+$darkGray: #363c43;
+$gray: #727272;
+$grayDark: #5e6d77;
+$darkRed: #c94309;
+$lightRed: #ef7009;
+//
+$white: #fff;
+$black: #000;
+//
+$body-color: $gray;
+$headings-color: $dark;
